@@ -2,7 +2,9 @@
 
 - 🔭 Faço faculdade em Engenharia de Software
 - 🌱 Estudando Big Data
+
 - 😄 Pronouns: ela/dela
+- 🎈  MBTI: ISFJ
 
 <div>
   <a href="https://github.com/anitaisabelly">
