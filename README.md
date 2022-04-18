@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Anita Isabelly
 
 - 🔭 Faço faculdade em Engenharia de Software
-- 🌱 Estudando italiano
-
 - 😄 Pronouns: ela/dela
 - 🎈  MBTI: ISFJ
 
