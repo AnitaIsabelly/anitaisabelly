@@ -9,7 +9,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&langs_count=7&theme=bear"/>
 </div>
-
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-original.svg">
