@@ -1,23 +1,17 @@
-<h1 align="left">Olá! Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Anita Isabelly! ☺️</h1>
+<h1 align="left">Olá! Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou Anita Isabelly! ☺️</h1>
 
 - 🔭 Faço faculdade em Engenharia de Software
 - 😄 Pronomes: ela/dela
 - 🎈  MBTI: ISFJ
-
-<div>
-  <a href="https://github.com/anitaisabelly">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=bear"/>
-  <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=bear"/>
-</div>
   
   <br><br>
-
+<div>
 ## ⚙️ &nbsp;Análises GitHub
-
 <p align="left">
-<img width="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=bear"/>
-<img width="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=bear"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=bear"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=bear"/>
 </p>
+  </div>
   
 </div>
 <div style="display: inline_block"><br>
