@@ -1,4 +1,4 @@
-<h1 align="left">>Olá! Tudo bem? <img src="https://raw.githubusercontsnt.com/kaueMarques/kaueMarques/master/hi.git" width="30px">, eu sou Anita Isabelly! ☺️</h1>
+<h1 align="left">Olá! Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Anita Isabelly! ☺️</h1>
 
 - 🔭 Faço faculdade em Engenharia de Software
 - 😄 Pronouns: ela/dela
