@@ -1,7 +1,7 @@
 <h1 align="left">Olá! Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Anita Isabelly! ☺️</h1>
 
 - 🔭 Faço faculdade em Engenharia de Software
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - 🎈  MBTI: ISFJ
 
 <div>
@@ -9,6 +9,15 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=bear"/>
   <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=bear"/>
 </div>
+  
+  <br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
   
 </div>
 <div style="display: inline_block"><br>
