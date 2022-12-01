@@ -4,7 +4,7 @@
 - 😄 Pronomes: ela/dela
 - 🎈  MBTI: ISFJ
   
- <br><br>
+ <br>
 <div>
 <h2>⚙️ &nbsp;Análises GitHub</h2>
 <p align="left">
@@ -12,16 +12,17 @@
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=bear"/>
 </p>
   </div>
-<br><br>
+<br>
 <div style="display: inline_block"><br>
   <h2>🛠 &nbsp;Técnologias</h2>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">
+   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
-
-<br><br>
+<br>
 <div>
 <h2>💬 &nbsp;Entre em contato comigo!</h2>
   <a href="https://www.facebook.com/profile.php?id=100009118319592" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
