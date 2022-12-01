@@ -1,4 +1,4 @@
-## Olá! Eu sou a Anita Isabelly
+<h1 align="left">>Olá! Tudo bem? <img src="https://raw.githubusercontsnt.com/kaueMarques/kaueMarques/master/hi.git" width="30px">, eu sou Anita Isabelly! ☺️</h1>
 
 - 🔭 Faço faculdade em Engenharia de Software
 - 😄 Pronouns: ela/dela
@@ -18,9 +18,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">
 </div>
 
-##Entre em contato comigo!
-
-<div> 
+<div>
+<h2>Entre em contato comigo!</h2>
   <a href="https://www.facebook.com/profile.php?id=100009118319592" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:anitaisabellyg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anita-isabelly-gabionetta-de-souza-5a283b197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
