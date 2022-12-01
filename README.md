@@ -24,7 +24,7 @@
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  
 </div>
-<br>
+<br><br>
 <div>
 <h2>💬 &nbsp;Entre em contato comigo!</h2>
   <a href="https://www.facebook.com/profile.php?id=100009118319592" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
