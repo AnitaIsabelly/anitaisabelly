@@ -14,14 +14,14 @@
   </div>
 <br>
 <div style="display: inline_block">
-  <h2>🛠 &nbsp;Técnologias</h2>
+  <h2>🛠 &nbsp;Tecnologias</h2>
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" height="50" width="50" src=" https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  
 </div>
 <br>
