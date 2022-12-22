@@ -16,6 +16,8 @@
 <img height="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=prussian"/>
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=prussian"/>
 </p>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnitaIsabelly&bg_color=172f45&color=ffffff&line=ffffff&point=0080e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
   </div>
 <br>
 <div style="display: inline_block">
@@ -36,7 +38,5 @@
   <a href = "mailto:anitaisabellyg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anita-isabelly-gabionetta-de-souza-5a283b197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnitaIsabelly&bg_color=172f45&color=ffffff&line=ffffff&point=0080e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=footer"/>
