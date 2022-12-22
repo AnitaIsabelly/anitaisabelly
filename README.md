@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/anita-isabelly-gabionetta-de-souza-5a283b197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   <br>
-  ![snake gif](  https://github.com/AnitaIsabelly/anitaisabelly/blob/main/.github/workflows/main.gif)
+  ![snake gif](https://github.com/AnitaIsabelly/anitaisabelly/blob/main/github-contribution-grid-snake.gif)
 
    <br> <br>
 
