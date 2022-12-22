@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=header&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078D7&size=35&center=true&vCenter=true&width=1000&lines=Ola,+tudo bem?;Meu+nome+e+Anita+Isabelly;Eu+tenho+20+anos;Faço+Engenharia+de+Software;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caroline+Barbosa;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🔭 Faço faculdade em Engenharia de Software
