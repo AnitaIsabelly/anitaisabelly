@@ -1,15 +1,17 @@
-<h1 align="left">Olá! Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou Anita Isabelly! ☺️</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=header&text=Anita%20Isabelly&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Olá!+Tudo Bem?)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🔭 Faço faculdade em Engenharia de Software
 - 😄 Pronomes: ela/dela
 - 🎈  MBTI: ISFJ
+- 💕 Gosto de chás, gatos, incensos e livros 
   
  <br>
 <div>
 <h2>⚙️ &nbsp;Análises GitHub</h2>
 <p align="left">
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=bear"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=bear"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=anitaisabelly&show_icons=true&theme=prussian"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitaisabelly&layout=compact&theme=prussian"/>
 </p>
   </div>
 <br>
