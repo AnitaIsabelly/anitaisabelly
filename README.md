@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=header&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">;Meu+nome+é+Anita+Isabelly;Tenho+21+anos;Faço+Engenharia+de+Software;Sejam+bem-vindos!+:)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?+😄;Meu+nome+é+Anita+Isabelly;Tenho+21+anos;Faço+Engenharia+de+Software;Sejam+bem-vindos!+:)](https://git.io/typing-svg) 
 
 
 
@@ -39,4 +39,4 @@
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnitaIsabelly&bg_color=172f45&color=ffffff&line=ffffff&point=0080e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=footer"/>
