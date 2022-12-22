@@ -36,6 +36,8 @@
   <a href = "mailto:anitaisabellyg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anita-isabelly-gabionetta-de-souza-5a283b197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  <br>
+  ![snake gif](https://github.com/AnitaIsabelly/anitaisabelly/blob/output/github-contribution-grid-snake.gif)
    <br> <br>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=footer"/>
