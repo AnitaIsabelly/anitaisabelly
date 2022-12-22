@@ -1,14 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=header&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?+😊;Meu+nome+é+Anita+Isabelly;Tenho+21+anos;Faço+Engenharia+de+Software+🖥️;Sejam+bem-vindos!+💙+🖤)](https://git.io/typing-svg) 
-
-
+ <br> <br>
 
 - 🔭 Faço faculdade em Engenharia de Software
 - 😄 Pronomes: ela/dela
 - 🎈  MBTI: ISFJ
 - 💕 Gosto de chás, gatos, incensos e livros 
-  
  <br>
 <div>
 <h2>⚙️ &nbsp;Análises GitHub</h2>
@@ -38,5 +36,6 @@
   <a href = "mailto:anitaisabellyg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anita-isabelly-gabionetta-de-souza-5a283b197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+   <br> <br>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=footer"/>
