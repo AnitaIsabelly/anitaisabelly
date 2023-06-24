@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=160&section=header&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?+😊;Meu+nome+é+Anita+Isabelly;Tenho+21+anos;Faço+Engenharia+de+Software+🖥️;Sejam+bem-vindos!+💙+🖤)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?+😊;Meu+nome+é+Anita+Isabelly;Tenho+21+anos;Faço+Engenharia+de+Software+🖥️;Estou+estudando+para+ser+uma+UX+Designer;Sejam+bem-vindos!+💙+🖤)](https://git.io/typing-svg) 
  <br> <br>
 
 - 🔭 Buscando sempre por novos conhecimentos
